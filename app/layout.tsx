@@ -1,4 +1,5 @@
 // app/layout.tsx - Cleaned version without EdgeStore references
+"use client";
 import React from 'react';
 import { useEffect } from 'react';
 
